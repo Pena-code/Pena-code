@@ -7,6 +7,8 @@ I'm  Portuguese developer with a background in electronics and experience as a s
 
 ![Screenshot_2025-01-10_at_15 04 38-removebg-preview](https://github.com/user-attachments/assets/0ed974c8-7099-45e1-818b-4b281502e81a)
 
+# Currently learning OutSystems.
+
 
 ### Get in Touch
 - r.pena.anubis@gmail.com
